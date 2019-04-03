@@ -7,4 +7,3 @@ Which movie has the smallest and largest Budget?
 What is the shortest, average and longest RunTime for the Movies?
 What is the Movie that has the most popularity?
 What is the most popular genres that we have in our dataset?
-
